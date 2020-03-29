@@ -3,3 +3,9 @@ The state wise information about COVID-19.
 
 
 for more information about COVID-19 at [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/events-as-they-happen)
+
+
+**India Information on 29/03/2020**
+
+![India_Information](/india.png)
+
